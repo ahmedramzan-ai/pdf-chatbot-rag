@@ -1,7 +1,11 @@
 # PDF Chatbot with Retrieval-Augmented Generation (RAG)
 
 A Python-based PDF question-answering application that allows users to upload documents and ask questions about their contents. The application uses document processing, semantic search, vector embeddings, and a language model to retrieve relevant information and generate answers.
+## Demo
 
+https://github.com/user-attachments/assets/a4607370-360f-432a-8dec-4b19ca6e4d99
+
+Watch the application demo to see the PDF chatbot interface and its document question-answering workflow.
 ## Overview
 
 Reading and searching through lengthy PDF documents can be time-consuming. This project aims to simplify that process by providing an interactive chatbot that helps users find information within uploaded documents.
